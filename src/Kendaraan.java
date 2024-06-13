@@ -1,3 +1,4 @@
+package src;
 public class Kendaraan {
     String noTNKB, nama, jenis;
     int cc, tahun, bulanHarusBayar;

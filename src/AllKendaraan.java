@@ -1,3 +1,4 @@
+package src;
 public class AllKendaraan {
     Kendaraan head, tail;
     int size;

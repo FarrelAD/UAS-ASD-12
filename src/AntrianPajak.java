@@ -1,3 +1,4 @@
+package src;
 public class AntrianPajak {
     TransaksiPajak head, tail;
     AllKendaraan allKdr;

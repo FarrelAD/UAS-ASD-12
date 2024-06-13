@@ -1,2 +1,2 @@
-# UAS-ASD-12
-This repository is for store algorithm and datastructure test
+# Here we go!
+13 June 2024
